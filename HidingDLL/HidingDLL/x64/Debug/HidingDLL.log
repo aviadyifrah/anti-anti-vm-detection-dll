@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\aviad\documents\limudim\2017a\anti-anti-proj\12122016\hidingdll\hidingdll\main.cpp(114): warning C4715: 'DetourGetFileAttributesA': not all control paths return a value
+c:\users\aviad\documents\limudim\2017a\anti-anti-proj\12122016\hidingdll\hidingdll\main.cpp(92): warning C4715: 'DetourCreateFileW': not all control paths return a value
+c:\users\aviad\documents\limudim\2017a\anti-anti-proj\12122016\hidingdll\hidingdll\main.cpp(134): warning C4715: 'DetourRegOpenKeyExA': not all control paths return a value
+c:\users\aviad\documents\limudim\2017a\anti-anti-proj\12122016\hidingdll\hidingdll\main.cpp(211): warning C4715: 'DetourProcess32Next': not all control paths return a value
+  libMinHook.x64.lib(hook.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Generating code
+  Finished generating code
+  HidingDLL.vcxproj -> C:\Users\aviad\Documents\limudim\2017A\ANTI-ANTI-PROJ\12122016\HidingDLL\x64\Debug\HidingDLL.dll
+  HidingDLL.vcxproj -> C:\Users\aviad\Documents\limudim\2017A\ANTI-ANTI-PROJ\12122016\HidingDLL\x64\Debug\HidingDLL.pdb (Full PDB)
