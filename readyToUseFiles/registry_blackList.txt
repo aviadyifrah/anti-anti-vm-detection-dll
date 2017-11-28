@@ -1,0 +1,79 @@
+SOFTWARE\Clients\StartMenuInternet\VMWAREHOSTOPEN.EXE
+SOFTWARE\VMware, Inc.\VMware Tools
+SOFTWARE\Microsoft\ESENT\Process\vmtoolsd
+SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_SATA_CD01_______________1.00____
+SYSTEM\CurrentControlSet\Enum\IDE\CdRomNECVMWar_VMware_IDE_CDR10_______________1.00____
+SYSTEM\CurrentControlSet\Enum\SCSI\Disk&Ven_VMware_&Prod_VMware_Virtual_S&Rev_1.0
+SYSTEM\CurrentControlSet\Enum\SCSI\Disk&Ven_VMware_&Prod_VMware_Virtual_S
+SYSTEM\CurrentControlSet\Control\CriticalDeviceDatabase\root#vmwvmcihostdev
+SYSTEM\CurrentControlSet\Control\VirtualDeviceDrivers
+SYSTEM\CurrentControlSet\Services\IRIS5
+SOFTWARE\eEye Digital Security
+SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Wireshark
+SOFTWARE\Microsoft\Windows\CurrentVersion\App Paths\wireshark.exe
+SOFTWARE\ZxSniffer.exe
+SOFTWARE\Cygwin
+SOFTWARE\B Labs\Bopup Observer
+AppEvents\Schemes\Apps\Bopup Observer
+SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Win Sniffer_is1
+SOFTWARE\Win Sniffer
+SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+SOFTWARE\Microsoft\Windows\CurrentVersion\Setup\SharedDlls
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Video\{4BEF3D64-1F2B-4026-9EE4-B6D8CD9FEA1B}\0000
+SYSTEM\CurrentControlSet\Control\Video\{3A8088C5-4419-4572-801C-A10BA858952F}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0001
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0001
+SYSTEM\CurrentControlSet\Control\Class\{4D36E96F-E325-11CE-BFC1-08002BE10318}\0001
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+SYSTEM\CurrentControlSet\Control\Class\{4D36E968-E325-11CE-BFC1-08002BE10318}\0000
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 1\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 2\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 3\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 4\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 5\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 0\Scsi Bus 6\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 1\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 2\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 3\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 4\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 5\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 1\Scsi Bus 6\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 1\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 2\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 3\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 4\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 5\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 2\Scsi Bus 6\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 1\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 2\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 3\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 4\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 5\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 3\Scsi Bus 6\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 1\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 2\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 3\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 4\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 5\Target Id 0\Logical Unit Id 0
+HARDWARE\DEVICEMAP\Scsi\Scsi Port 4\Scsi Bus 6\Target Id 0\Logical Unit Id 0
