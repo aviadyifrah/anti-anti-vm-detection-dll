@@ -3,7 +3,7 @@ anti anti vm dll, used to hide VMWare characteristics as files, processes, servi
 
 The method used this project is by hooking the relevat functions in OS, I'm making use in "MinHook" native c library which make my life easier a lot.
 
-The current version aim to win7 32` bit.
+The current version aim to win7 32 bit.
 
 One of the main goals is that the dll will be easy to configure, in order to let one to hide specific program.
 
@@ -26,6 +26,8 @@ how to use:
 2.	Download https://github.com/AlicanAkyol/sems and run sems.exe to view vm detection result.
 3.	Copy runFiles directory to vm and run editReg.exe	
 4.	Run again sems.exe and compare results to previous run results.
+
+
 to-do list - Order of importance:
 1.	hook other functions: 
 processes: Process32First, Process32Next.
