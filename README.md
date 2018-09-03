@@ -21,20 +21,20 @@ files: GetFileAttributesA, CreateFileW
 
 
 
-how to use:
+How to use:
 1.	create win7 32bit vmware machine.
 2.	Download https://github.com/AlicanAkyol/sems and run sems.exe to view vm detection result.
 3.	Copy runFiles directory to vm and run editReg.exe	
 4.	Run again sems.exe and compare results to previous run results.
 
 
-to-do list - Order of importance:
+To-Do list - Order of importance:
 1.	hook other functions: 
 processes: Process32First, Process32Next.
 registry: RegQueryValueExA.
 services: not yet
 
-refrences:
+Refrences:
 1.	AppInit_DLLs: https://support.microsoft.com/he-il/kb/197571
 2.	anti vm\sandbox techniques:
  https://sentinelone.com/blogs/sfg-furtims parent/ 
